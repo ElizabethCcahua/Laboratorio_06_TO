@@ -1,0 +1,6 @@
+Origen,Destino,X1,Y1,X2,Y2,Distancia_Euclidea,Distancia_Manhattan
+Punto A,Punto B,10,15,20,35,22.3607,30
+Punto A,Punto C,10,15,40,20,30.4138,35
+Punto B,Punto C,20,35,40,20,25.0,35
+Punto B,Punto D,20,35,55,60,43.0116,60
+Punto C,Punto D,40,20,55,60,42.72,55
